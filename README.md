@@ -29,7 +29,7 @@ To replicate this project, clone the repository and ensure you have access to Go
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/SaiDhanushKolla777/Sentiment-Analysis-of-Rotten-Tomatoes-Critic-Reviews.git
+   git clone https://github.com/schekka123/Sentiment-Analysis-of-Rotten-Tomatoes-Critic-Reviews.git
    ```
 2. **Set up Google Cloud Platform**:
    - Ensure you have an active Google Cloud account.
